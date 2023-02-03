@@ -1,0 +1,7 @@
+pottedplant 0.0045 0 257 6 283
+pottedplant 0.0016 4 248 23 280
+pottedplant 0.0015 0 241 9 286
+pottedplant 0.0011 8 252 21 274
+pottedplant 0.0011 9 249 20 265
+train 0.9771 127 1 464 373
+train 0.0052 437 174 498 303

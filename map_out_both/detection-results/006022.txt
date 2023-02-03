@@ -1,0 +1,13 @@
+diningtable 0.1987 6 309 384 498
+diningtable 0.0015 87 259 307 383
+diningtable 0.0013 53 216 340 441
+pottedplant 0.9890 -8 -5 227 276
+pottedplant 0.7264 167 12 392 415
+pottedplant 0.0136 112 223 397 435
+pottedplant 0.0096 0 -7 72 299
+pottedplant 0.0037 -5 -27 327 371
+pottedplant 0.0035 284 14 392 480
+pottedplant 0.0019 139 233 369 355
+pottedplant 0.0017 86 -8 300 275
+pottedplant 0.0013 0 31 16 295
+pottedplant 0.0011 -2 30 159 234

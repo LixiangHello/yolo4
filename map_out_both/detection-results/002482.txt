@@ -1,0 +1,16 @@
+chair 0.0025 328 326 375 497
+person 0.0023 364 491 374 500
+person 0.0017 354 493 375 500
+pottedplant 0.9857 64 360 145 454
+pottedplant 0.0581 8 40 367 461
+pottedplant 0.0053 5 178 128 328
+pottedplant 0.0037 48 312 155 450
+pottedplant 0.0026 2 438 38 500
+pottedplant 0.0026 0 153 141 426
+pottedplant 0.0025 0 447 18 500
+pottedplant 0.0024 0 174 71 347
+pottedplant 0.0022 0 486 8 500
+pottedplant 0.0017 0 448 8 500
+pottedplant 0.0016 239 231 364 339
+pottedplant 0.0014 32 179 285 467
+pottedplant 0.0010 0 408 6 505

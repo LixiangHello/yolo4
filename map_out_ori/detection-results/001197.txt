@@ -1,0 +1,9 @@
+cat 0.0035 370 2 410 45
+chair 0.7270 36 37 511 335
+sofa 0.5127 3 12 495 283
+tvmonitor 0.0298 0 81 45 157
+tvmonitor 0.0025 0 34 9 86
+tvmonitor 0.0022 0 25 24 88
+tvmonitor 0.0017 0 84 7 152
+tvmonitor 0.0012 0 29 46 85
+tvmonitor 0.0010 204 0 323 6

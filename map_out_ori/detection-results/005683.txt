@@ -1,0 +1,7 @@
+bicycle 0.9804 22 -10 478 336
+bicycle 0.0109 34 -6 387 206
+motorbike 0.0041 151 -5 497 210
+motorbike 0.0028 169 -1 482 77
+motorbike 0.0021 304 -1 504 86
+person 0.0012 375 0 459 11
+pottedplant 0.0010 7 -2 126 187

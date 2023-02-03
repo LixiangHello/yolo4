@@ -1,0 +1,8 @@
+bottle 0.0066 300 2 407 53
+motorbike 0.9835 5 0 487 329
+motorbike 0.9135 457 -3 499 85
+motorbike 0.0094 466 -13 500 56
+motorbike 0.0022 67 -3 429 39
+motorbike 0.0013 228 3 421 61
+person 0.0046 205 0 265 21
+pottedplant 0.0012 292 46 436 131

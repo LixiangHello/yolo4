@@ -1,0 +1,4 @@
+pottedplant 0.0013 75 190 125 223
+tvmonitor 0.9589 184 67 326 206
+tvmonitor 0.0012 439 39 501 235
+tvmonitor 0.0010 0 135 5 231

@@ -1,0 +1,3 @@
+motorbike 0.9454 26 12 389 367
+pottedplant 0.0042 363 7 503 140
+pottedplant 0.0011 315 1 498 197

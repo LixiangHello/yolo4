@@ -1,0 +1,10 @@
+bicycle 0.9020 230 368 372 463
+pottedplant 0.0116 54 456 191 498
+pottedplant 0.0039 0 37 144 466
+pottedplant 0.0024 77 467 222 501
+pottedplant 0.0021 37 443 221 506
+pottedplant 0.0018 0 50 17 197
+pottedplant 0.0016 224 465 286 500
+pottedplant 0.0014 -19 18 277 484
+pottedplant 0.0013 1 84 67 433
+pottedplant 0.0010 0 69 36 180

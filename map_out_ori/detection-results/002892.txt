@@ -1,0 +1,10 @@
+bird 0.0247 184 186 245 256
+bird 0.0010 11 79 256 358
+pottedplant 0.1545 311 -7 501 330
+pottedplant 0.0128 398 130 502 319
+pottedplant 0.0042 24 6 473 368
+pottedplant 0.0024 0 17 16 168
+pottedplant 0.0022 440 27 500 331
+pottedplant 0.0017 383 193 487 313
+pottedplant 0.0016 0 22 196 355
+pottedplant 0.0010 -1 -7 59 140

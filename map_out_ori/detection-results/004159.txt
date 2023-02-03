@@ -1,0 +1,9 @@
+bottle 0.0013 335 36 346 72
+bottle 0.0011 0 -5 22 80
+chair 0.0041 29 68 73 129
+pottedplant 0.9950 11 82 202 358
+pottedplant 0.0021 4 61 89 313
+pottedplant 0.0016 450 1 497 75
+pottedplant 0.0015 -46 54 316 383
+pottedplant 0.0013 122 86 207 261
+tvmonitor 0.0093 132 94 181 135

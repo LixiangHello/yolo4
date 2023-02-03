@@ -1,0 +1,9 @@
+bottle 0.0022 0 1 18 157
+bottle 0.0020 -1 4 92 151
+cat 0.9834 65 35 487 348
+chair 0.0812 2 -2 443 326
+chair 0.0030 108 0 471 87
+diningtable 0.2740 2 98 499 380
+diningtable 0.0033 -4 304 502 373
+pottedplant 0.0047 247 0 387 23
+pottedplant 0.0042 275 0 349 21

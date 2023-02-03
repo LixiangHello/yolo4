@@ -1,0 +1,9 @@
+pottedplant 0.7370 79 141 264 316
+pottedplant 0.3607 166 15 314 216
+pottedplant 0.2566 279 6 395 140
+pottedplant 0.0330 8 248 57 332
+pottedplant 0.0192 286 10 388 73
+pottedplant 0.0175 92 1 326 333
+pottedplant 0.0045 180 13 294 135
+pottedplant 0.0022 81 141 208 266
+pottedplant 0.0014 174 9 405 174

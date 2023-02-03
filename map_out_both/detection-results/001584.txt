@@ -1,0 +1,5 @@
+horse 0.9368 187 3 472 363
+horse 0.0012 14 1 413 372
+pottedplant 0.0319 0 14 121 365
+pottedplant 0.0015 -1 122 123 254
+pottedplant 0.0013 80 212 102 238

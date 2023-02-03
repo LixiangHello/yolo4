@@ -1,0 +1,17 @@
+person 0.0012 0 63 6 159
+pottedplant 0.0028 0 47 3 75
+pottedplant 0.0028 0 24 6 98
+pottedplant 0.0028 0 9 23 90
+pottedplant 0.0011 0 62 6 87
+tvmonitor 0.9730 220 89 309 158
+tvmonitor 0.9716 124 84 222 164
+tvmonitor 0.9661 334 61 452 173
+tvmonitor 0.9444 22 84 122 162
+tvmonitor 0.1826 77 1 250 97
+tvmonitor 0.0029 0 120 25 211
+tvmonitor 0.0022 -7 37 141 223
+tvmonitor 0.0019 0 135 8 204
+tvmonitor 0.0013 100 29 244 228
+tvmonitor 0.0012 355 0 422 20
+tvmonitor 0.0011 1 130 44 202
+tvmonitor 0.0010 0 134 28 174

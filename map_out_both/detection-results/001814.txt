@@ -1,0 +1,7 @@
+chair 0.8951 243 1 417 193
+chair 0.0036 249 4 409 91
+chair 0.0015 248 -3 351 165
+diningtable 0.0016 4 51 496 381
+tvmonitor 0.0041 -4 0 100 45
+tvmonitor 0.0017 14 0 158 40
+tvmonitor 0.0015 0 1 51 67

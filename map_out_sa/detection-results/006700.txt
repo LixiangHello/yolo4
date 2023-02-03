@@ -1,0 +1,9 @@
+bottle 0.0088 0 243 18 375
+chair 0.0016 0 157 15 377
+diningtable 0.0014 6 230 342 374
+pottedplant 0.8766 143 21 345 358
+pottedplant 0.0336 64 -15 433 340
+pottedplant 0.0042 156 126 336 253
+pottedplant 0.0038 156 171 338 315
+pottedplant 0.0024 185 95 300 294
+pottedplant 0.0013 -11 33 134 343

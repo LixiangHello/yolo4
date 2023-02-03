@@ -1,0 +1,9 @@
+person 0.0066 31 14 240 193
+pottedplant 0.0021 0 21 6 100
+pottedplant 0.0014 0 -1 17 157
+pottedplant 0.0011 0 101 55 342
+sofa 0.0073 0 95 43 178
+tvmonitor 0.9194 247 43 469 226
+tvmonitor 0.0028 11 19 492 233
+tvmonitor 0.0027 -1 41 496 391
+tvmonitor 0.0019 310 0 488 85

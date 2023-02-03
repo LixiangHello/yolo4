@@ -1,0 +1,4 @@
+bottle 0.0013 158 84 169 131
+pottedplant 0.9530 99 287 270 484
+pottedplant 0.0024 130 275 224 467
+tvmonitor 0.2628 0 1 87 132

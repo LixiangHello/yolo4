@@ -1,0 +1,7 @@
+car 0.9362 32 59 393 279
+motorbike 0.7422 0 65 93 169
+motorbike 0.0786 5 61 166 164
+motorbike 0.0147 1 78 50 160
+motorbike 0.0023 -4 2 130 182
+motorbike 0.0014 0 74 26 166
+motorbike 0.0013 4 88 121 149

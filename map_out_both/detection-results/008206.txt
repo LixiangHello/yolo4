@@ -1,0 +1,7 @@
+bottle 0.0021 0 272 5 369
+chair 0.0011 0 238 5 360
+pottedplant 0.9866 116 18 304 296
+pottedplant 0.0188 47 8 373 361
+pottedplant 0.0139 123 81 299 226
+pottedplant 0.0011 117 45 211 259
+pottedplant 0.0010 7 -6 260 268

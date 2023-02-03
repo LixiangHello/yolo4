@@ -1,0 +1,4 @@
+aeroplane 0.9731 4 49 497 277
+aeroplane 0.0043 0 0 46 22
+motorbike 0.0013 0 0 26 20
+pottedplant 0.0013 236 87 258 98

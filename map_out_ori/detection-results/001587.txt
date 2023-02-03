@@ -1,0 +1,5 @@
+bicycle 0.9787 200 250 277 323
+pottedplant 0.0178 101 18 117 35
+pottedplant 0.0059 101 18 122 46
+pottedplant 0.0011 195 0 254 19
+pottedplant 0.0010 99 0 123 36

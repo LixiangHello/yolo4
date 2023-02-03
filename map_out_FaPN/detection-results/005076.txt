@@ -1,0 +1,9 @@
+aeroplane 0.9482 4 3 496 275
+aeroplane 0.0015 402 0 501 39
+aeroplane 0.0014 72 -2 429 76
+aeroplane 0.0012 23 -5 479 134
+aeroplane 0.0012 79 -7 421 40
+aeroplane 0.0010 2 10 189 111
+aeroplane 0.0010 76 71 427 165
+person 0.0022 68 195 104 255
+person 0.0013 0 211 7 283

@@ -1,0 +1,8 @@
+cat 0.9842 192 23 447 307
+cat 0.0012 208 90 434 230
+person 0.5096 4 6 254 302
+person 0.0012 2 5 88 297
+pottedplant 0.0045 0 -23 50 294
+pottedplant 0.0022 -3 -13 32 227
+pottedplant 0.0011 0 34 20 264
+pottedplant 0.0010 0 0 29 128

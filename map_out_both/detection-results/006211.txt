@@ -1,0 +1,8 @@
+dog 0.9289 149 237 201 280
+pottedplant 0.1579 -2 407 126 497
+pottedplant 0.0265 82 432 138 501
+pottedplant 0.0021 283 0 301 7
+pottedplant 0.0020 33 427 170 506
+pottedplant 0.0011 82 452 120 499
+pottedplant 0.0011 74 463 146 506
+pottedplant 0.0010 3 437 101 500

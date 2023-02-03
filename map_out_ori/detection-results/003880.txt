@@ -1,0 +1,9 @@
+bottle 0.0013 216 0 255 50
+cat 0.9905 196 23 445 305
+person 0.5608 6 1 250 306
+person 0.0071 27 -27 472 297
+person 0.0020 2 8 86 291
+pottedplant 0.0184 -1 4 54 291
+pottedplant 0.0036 -1 29 18 268
+pottedplant 0.0032 -1 -10 33 223
+pottedplant 0.0015 0 -3 26 129

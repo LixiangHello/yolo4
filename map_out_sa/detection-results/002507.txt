@@ -1,0 +1,11 @@
+bottle 0.0067 300 2 406 53
+motorbike 0.9534 6 -8 487 338
+motorbike 0.8560 458 0 498 82
+motorbike 0.0227 466 -11 500 54
+motorbike 0.0046 85 -5 415 40
+motorbike 0.0036 230 2 416 61
+motorbike 0.0013 54 0 376 68
+motorbike 0.0011 465 -49 505 91
+person 0.0119 207 0 263 22
+person 0.0010 230 0 259 23
+person 0.0010 473 0 498 6

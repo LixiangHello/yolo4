@@ -1,0 +1,5 @@
+motorbike 0.9885 0 256 253 465
+motorbike 0.0018 9 209 361 517
+person 0.9941 191 156 286 443
+pottedplant 0.0040 5 38 137 385
+pottedplant 0.0015 30 1 129 49

@@ -1,0 +1,10 @@
+chair 0.0025 45 -1 306 150
+chair 0.0020 0 0 93 104
+pottedplant 0.0188 0 -2 53 132
+pottedplant 0.0118 1 48 40 135
+pottedplant 0.0031 -3 2 123 92
+pottedplant 0.0018 298 0 447 36
+pottedplant 0.0011 0 80 26 126
+sofa 0.9359 185 29 482 340
+sofa 0.0199 8 -2 488 263
+sofa 0.0081 44 0 304 196

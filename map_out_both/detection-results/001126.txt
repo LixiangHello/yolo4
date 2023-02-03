@@ -1,0 +1,3 @@
+aeroplane 0.9485 157 72 345 276
+aeroplane 0.0028 32 41 465 298
+pottedplant 0.0016 37 -1 138 39
